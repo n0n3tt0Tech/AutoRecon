@@ -1,6 +1,9 @@
-Here is a clean, comprehensive, and professional `README.md` file designed specifically for your GitHub repository. It clearly explains what your automation toolkit does, how to set it up, and showcases your skills in balancing traditional security engineering with AI automation.
+The AutoRecon is a multi-threaded reconnaissance framework designed to accelerate the initial phases of an engagement by bridging traditional security engineering with large language model (LLM) automation.
 
-Create a file named exactly **`README.md`** in your project folder and paste the following content into it:
+In modern security operations, scanners generate massive volumes of raw log data. Sifting through hundreds of subdomains, directory paths, and open ports to find an actual entry point is time-consuming. This toolkit automates that entire bottleneck: it actively probes the target infrastructure using high-performance multi-threading, structures the output, and hands off the consolidated threat surface data to an AI analysis engine.
+
+By leveraging contextual prompting through the OpenRouter API, the tool acts as a virtual Red Team assistant—instantly interpreting scanning artifacts to isolate high-value vulnerabilities (like exposed configuration files or unpatched services) and mapping out precise, actionable attack paths for the operator.
+
 
 ```markdown
 # 🔍 AI-Powered Pentest Automation Tool
