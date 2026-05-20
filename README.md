@@ -38,8 +38,8 @@ This tool relies on classic network utilities and a Linux-based security archite
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/n0n3tt0Tech/AutoRecon.git
+   cd AutoRecon
 
 2. **Install Python Dependencies:**
    ```bash
