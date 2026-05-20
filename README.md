@@ -40,3 +40,19 @@ This tool relies on classic network utilities and a Linux-based security archite
    ```bash
    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
    cd your-repo-name
+
+2. **Install Python Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Configure API Keys:**
+   ```bash
+   export OPENROUTER_API_KEY="your_secret_openrouter_api_key"
+   export OPENROUTER_MODEL="deepseek/deepseek-chat"
+
+
+## Usage
+
+Run the primary automation controller:
+```bash
+python3 script.py
