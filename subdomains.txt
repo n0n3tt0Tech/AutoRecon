@@ -1,0 +1,5 @@
+localhost.testfire.net
+demo.testfire.net
+ftp.testfire.net
+www.testfire.net
+demo2.testfire.net
