@@ -1,6 +1,0 @@
-http://testfire.net/admin [302]
-http://testfire.net/bank [302]
-http://testfire.net/con [200]
-http://testfire.net/images [302]
-http://testfire.net/nul [200]
-http://testfire.net/util [302]
